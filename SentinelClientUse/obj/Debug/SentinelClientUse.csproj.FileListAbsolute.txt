@@ -1,0 +1,8 @@
+D:\学习\RedisClient\ServiceStackUse\SentinelClientUse\bin\Debug\SentinelClientUse.exe.config
+D:\学习\RedisClient\ServiceStackUse\SentinelClientUse\bin\Debug\SentinelClientUse.exe
+D:\学习\RedisClient\ServiceStackUse\SentinelClientUse\bin\Debug\SentinelClientUse.pdb
+D:\学习\RedisClient\ServiceStackUse\SentinelClientUse\bin\Debug\StackExchange.Redis.dll
+D:\学习\RedisClient\ServiceStackUse\SentinelClientUse\obj\Debug\SentinelClientUse.csprojResolveAssemblyReference.cache
+D:\学习\RedisClient\ServiceStackUse\SentinelClientUse\obj\Debug\SentinelClientUse.exe
+D:\学习\RedisClient\ServiceStackUse\SentinelClientUse\obj\Debug\SentinelClientUse.pdb
+D:\学习\RedisClient\ServiceStackUse\SentinelClientUse\bin\Debug\StackExchange.Redis.xml

@@ -1,0 +1,8 @@
+D:\学习\RedisClient\ServiceStackUse\CsredisUse\bin\Debug\CsredisUse.exe.config
+D:\学习\RedisClient\ServiceStackUse\CsredisUse\bin\Debug\CsredisUse.exe
+D:\学习\RedisClient\ServiceStackUse\CsredisUse\bin\Debug\CsredisUse.pdb
+D:\学习\RedisClient\ServiceStackUse\CsredisUse\bin\Debug\csredis.dll
+D:\学习\RedisClient\ServiceStackUse\CsredisUse\bin\Debug\csredis.xml
+D:\学习\RedisClient\ServiceStackUse\CsredisUse\obj\Debug\CsredisUse.csprojResolveAssemblyReference.cache
+D:\学习\RedisClient\ServiceStackUse\CsredisUse\obj\Debug\CsredisUse.exe
+D:\学习\RedisClient\ServiceStackUse\CsredisUse\obj\Debug\CsredisUse.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExchangeUse", "StackExchangeUse\StackExchangeUse.csproj", "{9D074474-08B8-4A2C-9067-EDE1D224F167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsredisUse", "CsredisUse\CsredisUse.csproj", "{6007E0A0-1721-4947-9F66-9D3C5029C61D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentinelClientUse", "SentinelClientUse\SentinelClientUse.csproj", "{FC698C21-50B4-4D4F-B9EE-93160479968F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D074474-08B8-4A2C-9067-EDE1D224F167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D074474-08B8-4A2C-9067-EDE1D224F167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D074474-08B8-4A2C-9067-EDE1D224F167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D074474-08B8-4A2C-9067-EDE1D224F167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6007E0A0-1721-4947-9F66-9D3C5029C61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6007E0A0-1721-4947-9F66-9D3C5029C61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6007E0A0-1721-4947-9F66-9D3C5029C61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6007E0A0-1721-4947-9F66-9D3C5029C61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC698C21-50B4-4D4F-B9EE-93160479968F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC698C21-50B4-4D4F-B9EE-93160479968F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC698C21-50B4-4D4F-B9EE-93160479968F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC698C21-50B4-4D4F-B9EE-93160479968F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
