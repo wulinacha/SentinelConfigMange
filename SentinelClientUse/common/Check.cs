@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace SentinelClientUse.common
+namespace SentinelClientUseMange.common
 {
     public class Check
     {
