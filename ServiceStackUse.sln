@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentinelClientMangeUse", "StackExchangeUse\SentinelClientMangeUse.csproj", "{9D074474-08B8-4A2C-9067-EDE1D224F167}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentinelClientMangeUse", "SentinelClientMangeUse\SentinelClientMangeUse.csproj", "{9D074474-08B8-4A2C-9067-EDE1D224F167}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentinelClientMange", "SentinelClientUse\SentinelClientMange.csproj", "{FC698C21-50B4-4D4F-B9EE-93160479968F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentinelClientMange", "SentinelClientMange\SentinelClientMange.csproj", "{FC698C21-50B4-4D4F-B9EE-93160479968F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

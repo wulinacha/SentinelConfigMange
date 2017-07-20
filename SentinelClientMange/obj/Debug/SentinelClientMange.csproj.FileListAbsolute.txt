@@ -6,3 +6,6 @@ D:\学习\SentinelConfigMange\SentinelClientUse\bin\Debug\StackExchange.Redis.xm
 D:\学习\SentinelConfigMange\SentinelClientUse\obj\Debug\SentinelClientMange.csprojResolveAssemblyReference.cache
 D:\学习\SentinelConfigMange\SentinelClientUse\obj\Debug\SentinelClientUseMange.exe
 D:\学习\SentinelConfigMange\SentinelClientUse\obj\Debug\SentinelClientUseMange.pdb
+D:\学习\SentinelConfigMange\SentinelClientMange\bin\Debug\SentinelClientUseMange.exe.config
+D:\学习\SentinelConfigMange\SentinelClientMange\obj\Debug\SentinelClientUseMange.exe
+D:\学习\SentinelConfigMange\SentinelClientMange\obj\Debug\SentinelClientUseMange.pdb
